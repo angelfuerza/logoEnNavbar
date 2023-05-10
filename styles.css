@@ -1,0 +1,9 @@
+/*Estilos editables para el logo imagen en Navbar*/
+
+.logo-image{
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
